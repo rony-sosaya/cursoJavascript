@@ -20,3 +20,4 @@ if (tiempos > 3) {
 }
 
 console.log(saludar) // "dice Hola tambien"
+//tuve que pushear de nuevo por que creí que consideraria el ejercicio como un siguiente push
