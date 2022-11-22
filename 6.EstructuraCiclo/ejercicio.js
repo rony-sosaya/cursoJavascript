@@ -50,10 +50,10 @@ console.log(palindromeChecker("amolapaloma"))
 //Hacer un programa que muestre los primeros numeros de la serie de fibonacci.
 //FIBONACCI
 
-var fib = function(p) {
-    if (p <= 1) return p;
-    return fib(p-1) + fib(p-2);
-}
-console.log(fib(5));
-console.log(fib(7));
-console.log(fib(34));
+// var fib = function(p) {
+//     if (p <= 1) return p;
+//     return fib(p-1) + fib(p-2);
+// }
+// console.log(fib(5));
+// console.log(fib(7));
+// console.log(fib(34));

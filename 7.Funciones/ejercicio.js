@@ -68,9 +68,11 @@ function contarVocales(texto) {
 console.log(contarVocales("hola, mi nombre es rony"));
 console.log(contarVocales("tengo 19 años"));
 console.log(contarVocales("hoy es martes, bueno eso creo"));
+console.log(contarVocales("LA SEMANA ES MUY CORTA"));
 
 // function calculadora(num1,num2,operación){return total}
 // ejem. calculadora(45,12,'suma') //33
+
 function suma(){
     return 8+9
 }
